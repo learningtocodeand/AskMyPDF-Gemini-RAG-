@@ -9,7 +9,11 @@ These embeddings are stored in a **FAISS vector database**, allowing efficient s
 The application is built with **Streamlit**, providing a simple and interactive interface for real-time document querying.
 
 ---
-## 📌 Architecture
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="assets/architecture.png" alt="Architecture Diagram" width="700"/>
+</p>
 
 ## 🚀 Features
 
